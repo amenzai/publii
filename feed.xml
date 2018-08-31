@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Amenzai Blog</title>
+    <link href="https://amenzai.github.io/publii/feed.xml" rel="self" />
+    <link href="https://amenzai.github.io/publii" />
+    <updated>2018-08-31T18:21:57+08:00</updated>
+    <author>
+        <name>amenzai</name>
+    </author>
+    <id>https://amenzai.github.io/publii</id>
+
+    <entry>
+        <title>test post</title>
+        <author>
+            <name>amenzai</name>
+        </author>
+        <link href="https://amenzai.github.io/publii/test-post.html"/>
+        <id>https://amenzai.github.io/publii/test-post.html</id>
+
+        <updated>2018-08-31T15:43:13+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://amenzai.github.io/publii/media/posts/1/138-140G1141358.jpg" alt="" />
+                    <div class="gallery" contenteditable="false" data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="#DOMAIN_NAME#gallery/138-140G1141354.jpg" data-size="1920x1200"><img src="#DOMAIN_NAME#gallery/138-140G1141354-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="#DOMAIN_NAME#gallery/138-140G1141356.jpg" data-size="1920x1200"><img src="#DOMAIN_NAME#gallery/138-140G1141356-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="#DOMAIN_NAME#gallery/138-140G1141352.jpg" data-size="1920x1200"><img src="#DOMAIN_NAME#gallery/138-140G1141352-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+<h2>撒旦法师，水电费水电费是发</h2>
+<p class="msg msg--success"><strong>1. 撒旦法师</strong></p>
+<p>水电费水电费</p>
+<pre>conselo.log(23)</pre>
+<p>dfgdf</p>
+<p> </p>
+<p>dfgdfg</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://amenzai.github.io/publii/media/posts/1/138-140G1141358.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://amenzai.github.io/publii/media/posts/1/gallery/138-140G1141354.jpg" ><img src="https://amenzai.github.io/publii/media/posts/1/gallery/138-140G1141354-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://amenzai.github.io/publii/media/posts/1/gallery/138-140G1141356.jpg" ><img src="https://amenzai.github.io/publii/media/posts/1/gallery/138-140G1141356-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://amenzai.github.io/publii/media/posts/1/gallery/138-140G1141352.jpg" ><img src="https://amenzai.github.io/publii/media/posts/1/gallery/138-140G1141352-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+<h2>撒旦法师，水电费水电费是发</h2>
+<p class="msg msg--success"><strong>1. 撒旦法师</strong></p>
+<p>水电费水电费</p>
+<pre>conselo.log(23)</pre>
+<p>dfgdf</p>
+<p> </p>
+<p>dfgdfg</p>
+
+<p>sdfsdf水电费的鬼地方</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
